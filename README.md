@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Torin.
 - 👀 I’m interested in all things computer science.
-- 🌱 I’m currently learning compiler building.
+- 🌱 I’m currently learning machine learning and cybersecurity.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 Reach me at torinmay@gmail.com if you have any projects youd like to collaborate on.
 
