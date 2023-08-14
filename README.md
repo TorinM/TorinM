@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/torinmay/"><img src="https://img.shields.io/badge/_-Torin%20May-blue?style=flat&logo=linkedin";link="https://www.linkedin.com/in/torinmay" alt="LinkedIn Badge"></a> 
-    <a href="torinmay.me"><img src="https://img.shields.io/badge/-Website-blue";link="torinmay.me" alt="Website Badge"></a> 
+    <a href="https://torinmay.me"><img src="https://img.shields.io/badge/-Website-blue";link="torinmay.me" alt="Website Badge"></a> 
 </p>
 
 ---
