@@ -6,9 +6,7 @@
 </p>
 
 ---
-I'm a full-stack engineer with a preference for backend and low-level systems. Building performant, domain driven computing platforms is what excites me the most and I am always looking for new opportunities! Interesting conversations about exciting technologies and programming languages are always fun, so reach out to me over LinkedIn! I self identify as a rustacean!
-
-I also have in-depth knowledge of building a full AWS ecosytem to support multiple development environments. This also includes Infrastructure as Code with [Terraform](https://www.terraform.io/) and GitOps tooling for an active engineering team. I also have experience managing a team of engineers working on multiple projects. Feel free to reach out!
+I'm a backend engineer with expertise in Cyber Security, Cloud Development, DevOps, and building low-latency applications. Building performant, domain driven computing platforms is what excites me the most and I am always looking for new opportunities. Reach out to me over LinkedIn to get in touch and talk about anything technology.
 
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
